@@ -1,0 +1,4 @@
+faker
+paramiko
+confluent-kafka
+kafka-python

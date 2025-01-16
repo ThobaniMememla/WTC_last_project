@@ -1,0 +1,4 @@
+faust
+cassandra-driver
+confluent_kafka
+gevent
